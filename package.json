@@ -6,7 +6,10 @@
   "scripts": {
     "test": "tape tape/**/*-test.js | faucet"
   },
-  "keywords": [ "time", "window" ],
+  "keywords": [
+    "time",
+    "window"
+  ],
   "author": "Naive Roboticist",
   "license": "MIT",
   "dependencies": {
